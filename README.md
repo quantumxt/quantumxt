@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**1487quantum/1487quantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**quantumxt/quantumxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+<tr>
+ <th scope="col"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumxt&layout=compact&langs_count=8" alt="top_lang"/></th>
+ <th scope="col"><img src="https://github-readme-stats.vercel.app/api?username=quantumxt&show_icons=true&theme=vue-dark&hide=stars,issues" alt="stats" /></th>
+</tr>
+  </table>
