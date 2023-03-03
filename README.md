@@ -13,9 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Microcontrollers | Robotics | ROS
+
+```python
+'''
+=== Code ===
+'''
+Voracious typing
+Compile and execute code
+Segmentation fault
+```
+
 <table>
 <tr>
- <th scope="col"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumxt&layout=compact&langs_count=8" alt="top_lang"/></th>
- <th scope="col"><img src="https://github-readme-stats.vercel.app/api?username=quantumxt&show_icons=true&theme=vue-dark&hide=stars,issues" alt="stats" /></th>
+ <td scope="col">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumxt&layout=compact&langs_count=6" alt="top_lang"/>
+     <td scope="col">
+<img src="https://github-readme-stats.vercel.app/api?username=quantumxt&show_icons=true&theme=vue-dark&hide=stars,issues" alt="stats" />
+ </td>
+ </td>
 </tr>
   </table>
