@@ -13,22 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Microcontrollers | Robotics | ROS
-
-```python
-'''
-=== Code ===
-'''
-Voracious typing
-Compile and execute code
-Segmentation fault
-```
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=38C2FF&multiline=true&repeat=false&width=435&height=140&lines=%3D%3D%3D+The+Compilation+Conundrum+%3D%3D%3D;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;Voracious+typing;Compile+and+execute+code;Segmentation+fault)
 
 <table>
 <tr>
  <td scope="col">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumxt&layout=compact&langs_count=6" alt="top_lang"/>
-     <td scope="col">
 <img src="https://github-readme-stats.vercel.app/api?username=quantumxt&show_icons=true&theme=vue-dark&hide=stars,issues" alt="stats" />
  </td>
  </td>
